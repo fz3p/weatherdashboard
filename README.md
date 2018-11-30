@@ -1,1 +1,1 @@
-xplanet
+tuto récuperé sur http://www.magdiblog.fr/boa-pi-homedashscreen/4-module-1-date-et-heure/
