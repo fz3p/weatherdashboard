@@ -15,11 +15,10 @@
     <link rel="stylesheet" type="text/css" href="style.css"/>
   </head>
   <body>
-
     <div id="main">
       <div id="horloge"></div>
       <div id="meteo"></div>
-      <div id="latency"></div> -->
+      <div id="latency"></div>
       <div id="earth"><img id="img_earth" src="pict/blank.png"></div>
       <div id="moon"><img id="img_moon" src="pict/blank.png"></div>
     </div>
