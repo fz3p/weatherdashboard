@@ -22,3 +22,10 @@ puis
 
 ## conf apache 
 https://httpd.apache.org/docs/2.2/fr/vhosts/examples.html
+
+
+## changement dans le script
+nouvelle url pour le téléchargement de l'image cloud_map
+=> http://xplanetclouds.com/free/
+
+
