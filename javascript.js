@@ -53,3 +53,23 @@ function xplanet () {
 
   xplanet_timeout = setTimeout("xplanet()", 120000);
 }
+
+
+/* meteo */
+
+var meteo_timeout;
+
+function meteo ()
+{
+  $.ajax({
+    async : false,
+    type: "GET",
+    url: "./ajax.php",
+    data: "block=meteo",
+    success: function(html){
+      $("#meteo").html(html);
+    }
+  });
+
+  meteo_timeout = setTimeout("meteo()", 3600000);
+}

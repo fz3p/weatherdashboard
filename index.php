@@ -19,9 +19,9 @@
     <div id="main">
       <!--div id="etalon">Jarvis <?php //echo date("Y-m-d H:i:s"); ?></div-->
       <div id="horloge"></div>
- <!--      <div id="meteo"></div>
-      <div id="meteo_black"></div>
-      <div id="ts3"></div>
+      <div id="meteo"></div>
+
+  <!--<div id="ts3"></div>
       <div id="ping"></div>
       <div id="analytics"></div>
       <div id="vpn"></div>
