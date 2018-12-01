@@ -17,22 +17,11 @@
   <body>
 
     <div id="main">
-      <!--div id="etalon">Jarvis <?php //echo date("Y-m-d H:i:s"); ?></div-->
       <div id="horloge"></div>
       <div id="meteo"></div>
-
-  <!--<div id="ts3"></div>
-      <div id="ping"></div>
-      <div id="analytics"></div>
-      <div id="vpn"></div>
       <div id="latency"></div> -->
       <div id="earth"><img id="img_earth" src="pict/blank.png"></div>
       <div id="moon"><img id="img_moon" src="pict/blank.png"></div>
-<!--       <div id="ifstat_oberon_up"><img id="img_oberon_up" src="pict/blank.png"></div>
-      <div id="ifstat_oberon_down"><img id="img_oberon_down" src="pict/blank.png"></div> -->
     </div>
-
-    <?php include('inc.php'); echo analytics(); ?>
-
   </body>
 </html>

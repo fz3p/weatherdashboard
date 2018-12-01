@@ -2,6 +2,7 @@
 $(document).ready(function() {
    horloge ();
    xplanet ();
+   meteo();
 });
 
 
@@ -59,7 +60,7 @@ function xplanet () {
 
 var meteo_timeout;
 
-function meteo ()
+function meteo()
 {
   $.ajax({
     async : false,
