@@ -28,4 +28,7 @@ https://httpd.apache.org/docs/2.2/fr/vhosts/examples.html
 nouvelle url pour le téléchargement de l'image cloud_map
 => http://xplanetclouds.com/free/
 
+## Image de la lune non présente dans xplanet : 
+`cd /usr/share/xplanet/images`
+`sudo cp /var/www/xplanet/xplanet/img/moonmap2k.jpg moon.jpg`
 
